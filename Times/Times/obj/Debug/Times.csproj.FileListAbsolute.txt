@@ -1,0 +1,6 @@
+C:\Users\30002105\Desktop\Project 1\Times\Times\bin\Debug\Times.exe.config
+C:\Users\30002105\Desktop\Project 1\Times\Times\bin\Debug\Times.exe
+C:\Users\30002105\Desktop\Project 1\Times\Times\bin\Debug\Times.pdb
+C:\Users\30002105\Desktop\Project 1\Times\Times\obj\Debug\Times.csproj.CoreCompileInputs.cache
+C:\Users\30002105\Desktop\Project 1\Times\Times\obj\Debug\Times.exe
+C:\Users\30002105\Desktop\Project 1\Times\Times\obj\Debug\Times.pdb

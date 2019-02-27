@@ -1,0 +1,7 @@
+C:\Users\30002105\Desktop\Project 1\Adding+\Adding+\bin\Debug\Adding+.exe.config
+C:\Users\30002105\Desktop\Project 1\Adding+\Adding+\bin\Debug\Adding+.exe
+C:\Users\30002105\Desktop\Project 1\Adding+\Adding+\bin\Debug\Adding+.pdb
+C:\Users\30002105\Desktop\Project 1\Adding+\Adding+\obj\Debug\Adding+.csprojAssemblyReference.cache
+C:\Users\30002105\Desktop\Project 1\Adding+\Adding+\obj\Debug\Adding+.csproj.CoreCompileInputs.cache
+C:\Users\30002105\Desktop\Project 1\Adding+\Adding+\obj\Debug\Adding+.exe
+C:\Users\30002105\Desktop\Project 1\Adding+\Adding+\obj\Debug\Adding+.pdb

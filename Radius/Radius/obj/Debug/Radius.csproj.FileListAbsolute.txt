@@ -1,0 +1,7 @@
+C:\Users\30002105\Desktop\Project 1\Radius\Radius\obj\Debug\Radius.csprojAssemblyReference.cache
+C:\Users\30002105\Desktop\Project 1\Radius\Radius\obj\Debug\Radius.csproj.CoreCompileInputs.cache
+C:\Users\30002105\Desktop\Project 1\Radius\Radius\bin\Debug\Radius.exe.config
+C:\Users\30002105\Desktop\Project 1\Radius\Radius\bin\Debug\Radius.exe
+C:\Users\30002105\Desktop\Project 1\Radius\Radius\bin\Debug\Radius.pdb
+C:\Users\30002105\Desktop\Project 1\Radius\Radius\obj\Debug\Radius.exe
+C:\Users\30002105\Desktop\Project 1\Radius\Radius\obj\Debug\Radius.pdb

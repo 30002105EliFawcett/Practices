@@ -1,0 +1,6 @@
+C:\Users\30002105\Desktop\Project 1\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\30002105\Desktop\Project 1\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\30002105\Desktop\Project 1\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\30002105\Desktop\Project 1\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\30002105\Desktop\Project 1\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\30002105\Desktop\Project 1\Hello World\Hello World\obj\Debug\Hello World.pdb
