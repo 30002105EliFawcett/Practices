@@ -10,16 +10,17 @@ namespace _100_random_4_digit_numbers
     {
         static void Main(string[] args)
         {
-            int limit = 100;
-
-            Random random = new System.Random();
-            int value = random.Next(1000, 9999);
-            Console.WriteLine(value);
-            Console.ReadLine();
-            for (value = 1000; value <= limit; value++);
+            int[] limit = new int[100];
+            Random random = new Random();
+            for (int repeat = 1; repeat <= limit.Length; repeat++)
             {
-                Console.WriteLine(value);
+
+                limit[repeat-1] = random.Next(1000, 9999);
+                Console.Write(limit[repeat - 1] + " ");
+                if(repeat%10== 0)
+                    Console.WriteLine();
             }
+            Console.ReadLine();
         }
     }
 }

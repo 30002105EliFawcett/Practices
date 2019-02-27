@@ -10,13 +10,13 @@ namespace Radius
     {
         static void Main(string[] args)
         {
-            int num1;
-            int area;
-            int perimeter;
-            int pi = 3.141592653;
+            double num1;
+            double area;
+            double perimeter;
+            double pi = 3.141592653;
 
             Console.WriteLine("Please Enter The Radius");
-            num1 = Convert.ToInt32(Console.ReadLine());
+            num1 = Convert.ToDouble(Console.ReadLine());
             perimeter = (2 * pi * num1);
             area = (pi * num1 * num1);
             Console.WriteLine(perimeter);
